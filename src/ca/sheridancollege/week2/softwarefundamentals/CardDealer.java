@@ -23,6 +23,7 @@ public class CardDealer
         */
         
         Card fiveSpades = new Card("Spades", 5);
+        fiveSpades.setSuit("spades");
         
     }
 }
