@@ -15,5 +15,14 @@ public class CardDealer
     {
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
+        
+        /*
+        Edited By : Anmol Bhullar
+        Student Number : 991630879
+        Date edited: Feb 4, 2022
+        */
+        
+        Card fiveSpades = new Card("Spades", 5);
+        
     }
 }
